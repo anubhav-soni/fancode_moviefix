@@ -34,13 +34,19 @@ Once the terminal opens, run the following command to clone the project:
 
 git clone https://github.com/anubhav-soni/fancode_moviefix.git
 
-### 5. Install React Dependencies:
+### 5. Navigate to the Project Folder
+
+After cloning the repository, navigate inside the project folder by running the following command:
+
+cd fancode_moviefix
+
+### 6. Install React Dependencies:
 
 Run the following command in the terminal to install all necessary dependencies:
 
 npm install
 
-### 6. Start the Project:
+### 7. Start the Project:
 
 Once the installation is complete, start the project with the command:
 
