@@ -25,7 +25,7 @@ Right-click on the newly created folder (`Fancode11`) and select `Open with Code
 
 ### 3. Open the Terminal in VS Code
 
-- **For Windows:** Press `Ctrl + Shift + \`` (backtick).
+- **For Windows:** Press Ctrl + Shift + ` (backtick).
 - **Alternatively:** Click on the three dots in the menu bar and select `Terminal -> New Terminal`.
 
 ### 4. Clone the Repository
